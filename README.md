@@ -1,5 +1,6 @@
 # ScaleView
 自定义的刻度尺选择的View，仿京东金融选择金钱刻度尺效果
+
 ![image](https://img-blog.csdnimg.cn/2019110116290463.gif)
 ##### 1.在XML中进行引用
 ```
