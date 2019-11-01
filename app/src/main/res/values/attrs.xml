@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScaleSelectView">
+        <attr name="isCanvasLine" format="boolean"/>
+        <attr name="textDefaultSize" format="dimension"/>
+        <attr name="bgColor" format="color|reference"/>
+        <attr name="textDefaultColor" format="color|reference"/>
+        <attr name="textSelectColor" format="color|reference"/>
+        <attr name="unitSize" format="dimension"/>
+        <attr name="unitLongLine" format="integer"/>
+    </declare-styleable>
+
+</resources>
