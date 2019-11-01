@@ -1,5 +1,6 @@
 # ScaleView
 自定义的刻度尺选择的View，仿京东金融选择金钱刻度尺效果
+![image](https://github.com/AndroidyxChen/ScaleView/blob/master/image/Screenshot.png)
 ##### 1.在XML中进行引用
 ```
 <com.example.yanxu.scaleview.view.ScaleSelectView
