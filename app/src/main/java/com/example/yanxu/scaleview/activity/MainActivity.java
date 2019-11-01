@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
      * 初始化data
      */
     private void initData() {
-        mScaleView.setSelected(5, 7);
+        mScaleView.setSelected(5, 5);
         List<String> listGrade = new ArrayList<>();
         for (int i = 1; i <= 10; i++) {
             listGrade.add(i + "");
